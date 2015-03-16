@@ -21,7 +21,9 @@
 		"lodash": "^3.5.0",
 		"bluebird": "^2.9.14",
 		"methods": "^1.1.1",
-		"bl": "^0.9.4"
+		"bl": "^0.9.4",
+		"type-is": "^1.6.1",
+		"qs": "^2.4.1"
 	},
 	"devDependencies": {
 		"eslint": "^0.14.0",
