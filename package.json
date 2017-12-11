@@ -1,9 +1,15 @@
 {
 	"name": "picoagent",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Like `superagent`, but leaner.",
 	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
-	"keywords": [ "http", "request", "superagent", "ajax", "promise" ],
+	"keywords": [
+		"http",
+		"request",
+		"superagent",
+		"ajax",
+		"promise"
+	],
 	"license": "CC0-1.0",
 	"homepage": "https://github.com/izaakschroeder/picoagent",
 	"repository": {
